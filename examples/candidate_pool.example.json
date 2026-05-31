@@ -1,0 +1,14 @@
+[
+  {
+    "group": "webvid",
+    "dataset_id": "folder/example_target",
+    "key": "example_target.mp4",
+    "file_path": "data/videos/example_target.mp4"
+  },
+  {
+    "group": "ss2",
+    "dataset_id": "67890",
+    "key": "67890.webm",
+    "file_path": "data/videos/67890.webm"
+  }
+]
